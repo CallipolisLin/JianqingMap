@@ -1,0 +1,470 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q866021",
+        "place_name": "Yining Shi, Ili Kazak Zizhizhou, Xinjiang, China"
+      },
+      "geometry": {
+        "coordinates": [
+          81.31667,
+          43.91667
+        ],
+        "type": "Point"
+      },
+      "id": "locality.16794534535002400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q57756",
+        "place_name": "Lianyungang Shi, Jiangsu, China"
+      },
+      "geometry": {
+        "coordinates": [
+          119.1801,
+          34.59057
+        ],
+        "type": "Point"
+      },
+      "id": "place.10214909317650440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q205922",
+        "place_name": "Qiqiha'er Shi, Heilongjiang, China"
+      },
+      "geometry": {
+        "coordinates": [
+          123.95124,
+          47.33981
+        ],
+        "type": "Point"
+      },
+      "id": "place.10596352149334690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q16572",
+        "place_name": "Guangzhou Shi, Guangdong, China"
+      },
+      "geometry": {
+        "coordinates": [
+          113.25898,
+          23.1288
+        ],
+        "type": "Point"
+      },
+      "id": "place.10793298433323280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q174091",
+        "place_name": "Changsha Shi, Hunan, China"
+      },
+      "geometry": {
+        "coordinates": [
+          112.97222,
+          28.19611
+        ],
+        "type": "Point"
+      },
+      "id": "place.11446793699413620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q956",
+        "place_name": "Beijing Shi, China"
+      },
+      "geometry": {
+        "coordinates": [
+          116.39139,
+          39.905
+        ],
+        "type": "Point"
+      },
+      "id": "place.11643701859936750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q210365",
+        "place_name": "Beihai Shi, Guangxi Zhuang Autonomous Region, China"
+      },
+      "geometry": {
+        "coordinates": [
+          109.1,
+          21.46667
+        ],
+        "type": "Point"
+      },
+      "id": "place.12054729757171820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q4970",
+        "place_name": "Hangzhou Shi, Zhejiang, China"
+      },
+      "geometry": {
+        "coordinates": [
+          120.15507,
+          30.2741
+        ],
+        "type": "Point"
+      },
+      "id": "place.13345160766152970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q183584",
+        "place_name": "Lanzhou Shi, Gansu, China"
+      },
+      "geometry": {
+        "coordinates": [
+          103.83177,
+          36.06171
+        ],
+        "type": "Point"
+      },
+      "id": "place.13422971223705920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q182852",
+        "place_name": "Kunming Shi, Yunnan, China"
+      },
+      "geometry": {
+        "coordinates": [
+          102.71043,
+          25.04691
+        ],
+        "type": "Point"
+      },
+      "id": "place.13658338478312300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q16959",
+        "place_name": "Urumqi Shi, Xinjiang, China"
+      },
+      "geometry": {
+        "coordinates": [
+          87.6,
+          43.825
+        ],
+        "type": "Point"
+      },
+      "id": "place.16728823584437880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q211243",
+        "place_name": "Yinchuan Shi, Ningxia Hui Autonomous Region, China"
+      },
+      "geometry": {
+        "coordinates": [
+          106.22536,
+          38.47947
+        ],
+        "type": "Point"
+      },
+      "id": "place.16966362254302400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q11746",
+        "place_name": "Wuhan Shi, Hubei, China"
+      },
+      "geometry": {
+        "coordinates": [
+          114.27917,
+          30.5725
+        ],
+        "type": "Point"
+      },
+      "id": "place.17323134517629120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q69060",
+        "place_name": "Xining Shi, Qinghai, China"
+      },
+      "geometry": {
+        "coordinates": [
+          101.77866,
+          36.62386
+        ],
+        "type": "Point"
+      },
+      "id": "place.17815600374336400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q11725",
+        "place_name": "Chongqing Shi, China"
+      },
+      "geometry": {
+        "coordinates": [
+          106.50694,
+          29.55
+        ],
+        "type": "Point"
+      },
+      "id": "place.18066765996717230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q30002",
+        "place_name": "Chengdu Shi, Sichuan, China"
+      },
+      "geometry": {
+        "coordinates": [
+          104.06667,
+          30.66361
+        ],
+        "type": "Point"
+      },
+      "id": "place.18936529752170910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q216077",
+        "place_name": "Jiujiang Shi, Jiangxi, China"
+      },
+      "geometry": {
+        "coordinates": [
+          115.98722,
+          29.73806
+        ],
+        "type": "Point"
+      },
+      "id": "place.19329196613945180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q170322",
+        "place_name": "Qingdao Shi, Shandong, China"
+      },
+      "geometry": {
+        "coordinates": [
+          120.4,
+          36.11667
+        ],
+        "type": "Point"
+      },
+      "id": "place.2023824655700500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q72778",
+        "place_name": "Taiyuan Shi, Shanxi, China"
+      },
+      "geometry": {
+        "coordinates": [
+          112.54245,
+          37.87326
+        ],
+        "type": "Point"
+      },
+      "id": "place.2377377843890710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q42956",
+        "place_name": "Ha'erbin Shi, Heilongjiang, China"
+      },
+      "geometry": {
+        "coordinates": [
+          126.63333,
+          45.75
+        ],
+        "type": "Point"
+      },
+      "id": "place.4881731201761650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q217646",
+        "place_name": "Mudanjiang Shi, Heilongjiang, China"
+      },
+      "geometry": {
+        "coordinates": [
+          129.599719,
+          44.58611
+        ],
+        "type": "Point"
+      },
+      "id": "place.5252908374267980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q319804",
+        "place_name": "Sanya Shi, Hainan, China"
+      },
+      "geometry": {
+        "coordinates": [
+          109.50194,
+          18.25361
+        ],
+        "type": "Point"
+      },
+      "id": "place.5529784350114380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q8686",
+        "place_name": "Shanghai Shi, China"
+      },
+      "geometry": {
+        "coordinates": [
+          121.46667,
+          31.16667
+        ],
+        "type": "Point"
+      },
+      "id": "place.5717452319410970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q58401",
+        "place_name": "Shijiazhuang Shi, Hebei, China"
+      },
+      "geometry": {
+        "coordinates": [
+          114.50861,
+          38.04222
+        ],
+        "type": "Point"
+      },
+      "id": "place.6450000673816630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q5869",
+        "place_name": "Lhasa Shi, Tibet Autonomous Region, China"
+      },
+      "geometry": {
+        "coordinates": [
+          91.1,
+          29.65
+        ],
+        "type": "Point"
+      },
+      "id": "place.7207198139666450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q5826",
+        "place_name": "Xi'an Shi, Shaanxi, China"
+      },
+      "geometry": {
+        "coordinates": [
+          108.9,
+          34.26667
+        ],
+        "type": "Point"
+      },
+      "id": "place.8110239610027080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q535534",
+        "place_name": "Huhehaote Shi, Inner Mongolia, China"
+      },
+      "geometry": {
+        "coordinates": [
+          111.66293,
+          40.81507
+        ],
+        "type": "Point"
+      },
+      "id": "place.8137875635256570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q11736",
+        "place_name": "Tianjin Shi, China"
+      },
+      "geometry": {
+        "coordinates": [
+          117.20556,
+          39.14667
+        ],
+        "type": "Point"
+      },
+      "id": "place.851305045967300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q16666",
+        "place_name": "Nanjing Shi, Jiangsu, China"
+      },
+      "geometry": {
+        "coordinates": [
+          118.76667,
+          32.049999
+        ],
+        "type": "Point"
+      },
+      "id": "place.9327947243515330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q179608",
+        "place_name": "Nanning Shi, Guangxi Zhuang Autonomous Region, China"
+      },
+      "geometry": {
+        "coordinates": [
+          108.31501,
+          22.81918
+        ],
+        "type": "Point"
+      },
+      "id": "place.9386041724992350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q192271",
+        "place_name": "Guiyang Shi, Guizhou, China"
+      },
+      "geometry": {
+        "coordinates": [
+          106.70786,
+          26.57942
+        ],
+        "type": "Point"
+      },
+      "id": "place.9460842669606420"
+    }
+  ],
+  "type": "FeatureCollection"
+}
